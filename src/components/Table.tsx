@@ -61,13 +61,13 @@ const Table = (props: any) => {
 
     const tableMargin = (props : any) => css`
         margin-bottom: 177px;
-        position: ${props.modal === true ? "fixed" : ""}
-        top: ${props.modal === true ? "0" : ""}
-        left: ${props.modal === true ? "0" : ""}
-        bottom: ${props.modal === true ? "0" : ""}
-        right: ${props.modal === true ? "0" : ""}
-        background: ${props.modal === true ? "rgba(0, 0, 0, 0.8)" : ""}
-        padding: ${props.modal === true ? "2rem" : ""}
+        position: ${props.modal === true ? "fixed;" : ""}
+        top: ${props.modal === true ? "0;" : ""}
+        left: ${props.modal === true ? "0;" : ""}
+        bottom: ${props.modal === true ? "0;" : ""}
+        right: ${props.modal === true ? "0;" : ""}
+        background: ${props.modal === true ? "rgba(0, 0, 0, 0.8);" : ""}
+        padding: ${props.modal === true ? "2rem;" : ""}
     `
 
     // const modalTrue = (props) => css`

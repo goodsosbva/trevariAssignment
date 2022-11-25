@@ -1,7 +1,7 @@
 /** @jsxImportSource @emotion/react */
 import React from 'react'
 import { css } from '@emotion/react'
-import reactlogo from '../img/logo192.png'
+import reactlogo from '../img/smileBlack.png'
 
 
 const Header = (props: any) => {
