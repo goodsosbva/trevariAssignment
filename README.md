@@ -32,3 +32,12 @@
   
     💫 페이징 기능을 구현하지 못했습니다.
 
+
+### 로딩된 모습
+
+![image](https://user-images.githubusercontent.com/62534722/204077456-b97a3b58-dae4-4caa-9251-604a1dfa4fb9.png)
+
+
+### 상세페이지 모습
+![image](https://user-images.githubusercontent.com/62534722/204077474-57918f8a-0985-4228-aaca-82b4e60e425f.png)
+
